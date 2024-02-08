@@ -1,13 +1,13 @@
 # Welcome to LetsGo 👋
 
-![travelAdvisor Screenshot]()
+![travelAdvisor Screenshot]("https://ibb.co/sbnGRQP")
 
 A ReactJS Trip Advisor Web App made with RapidAPI's TravelAdvisor API and Google Maps API
 
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://twitter.com/babblebey" target="_blank">
-    <img alt="Twitter: babblebey" src="https://img.shields.io/twitter/follow/babblebey.svg?style=social" />
+  <a href="https://www.linkedin.com/in/ajitesh-gowlikar/" target="_blank">
+    <img alt="Linkedin: ajitesh-gowlikar" src="https://img.shields.io/linkedin/follow/ajitesh-gowlikar.svg?style=social" />
   </a>
 </p>
 
