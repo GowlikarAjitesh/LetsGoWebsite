@@ -1,6 +1,7 @@
 # Welcome to LetsGo 👋
 
-![travelAdvisor Screenshot]("https://ibb.co/sbnGRQP")
+![LetsGo_Home](https://github.com/GowlikarAjitesh/LetsGoWebsite/assets/117850813/5a26a227-62b4-41a2-86ff-59fc89599665)
+
 
 A ReactJS Trip Advisor Web App made with RapidAPI's TravelAdvisor API and Google Maps API
 
