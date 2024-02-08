@@ -8,7 +8,7 @@ A ReactJS Trip Advisor Web App made with RapidAPI's TravelAdvisor API and Google
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://www.linkedin.com/in/ajitesh-gowlikar/" target="_blank">
-    <img alt="Linkedin: ajitesh-gowlikar" src="https://img.shields.io/linkedin/follow/ajitesh-gowlikar.svg?style=social" />
+    <img alt="Linkedin: ajitesh-gowlikar" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />
   </a>
 </p>
 
