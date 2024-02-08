@@ -1,6 +1,6 @@
 # Welcome to LetsGo 👋
 
-![travelAdvisor Screenshot](https://i.ibb.co/WBNyy3Q/screenshot-traveladvisor-bey-netlify-app-2022-06-15-14-43-15.png)
+![travelAdvisor Screenshot]()
 
 A ReactJS Trip Advisor Web App made with RapidAPI's TravelAdvisor API and Google Maps API
 
