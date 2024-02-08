@@ -2,7 +2,7 @@
 
 ![travelAdvisor Screenshot](https://i.ibb.co/WBNyy3Q/screenshot-traveladvisor-bey-netlify-app-2022-06-15-14-43-15.png)
 
-A ReactJS TripAdvisor Clone Web App made with the RapidAPI's TravelAdvisor API and Google Maps API
+A ReactJS Trip Advisor Web App made with the RapidAPI's TravelAdvisor API and Google Maps API
 
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000" />
@@ -11,7 +11,7 @@ A ReactJS TripAdvisor Clone Web App made with the RapidAPI's TravelAdvisor API a
   </a>
 </p>
 
-### ✨ [Live Preview](https://traveladvisor-bey.netlify.app/)
+### ✨ [Live Preview](https://lets-go-ajitesh-gowlikar.netlify.app/)
 
 ## Install
 Run the Command to Install all dependencies.
