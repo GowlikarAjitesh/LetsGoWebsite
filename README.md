@@ -43,12 +43,9 @@ Your project should start running on `http://localhost:3000`
 
 ## Author
 
-👤 **Olabode Lawal-Shittabey**
+👤 **Ajitesh Gowlikar**
 
-* Twitter: [@babblebey](https://twitter.com/babblebey)
-* LinkedIn: [@babblebey](https://linkedin.com/in/babblebey)
-* Instagram: [@babblebey](https://instagram.com/babblebey)
+* gmail: [@babblebey](ajiteshgowlikar@gmail.com)
+* LinkedIn: [@babblebey](https://www.linkedin.com/in/ajitesh-gowlikar/)
+* Instagram: [@babblebey](https://instagram.com/the_gowlikar)
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
