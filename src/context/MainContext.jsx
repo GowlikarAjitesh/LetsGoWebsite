@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { getPlacesByBounds, getPlacesByLatLng } from "../api";
+import search from "../components/map/Header";
 import axios from "axios";
 
 export const MainContext = React.createContext();
