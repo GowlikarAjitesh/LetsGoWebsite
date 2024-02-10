@@ -1,17 +1,17 @@
-# Welcome to travelAdvisor 👋
+# Welcome to LetsGo 👋
 
-![travelAdvisor Screenshot](https://i.ibb.co/WBNyy3Q/screenshot-traveladvisor-bey-netlify-app-2022-06-15-14-43-15.png)
+![LetsGo_Home](https://github.com/GowlikarAjitesh/LetsGoWebsite/assets/117850813/5a26a227-62b4-41a2-86ff-59fc89599665)
 
-A ReactJS TripAdvisor Clone Web App made with the RapidAPI's TravelAdvisor API and Google Maps API
+
+A ReactJS Trip Advisor Web App made with RapidAPI's TravelAdvisor API and Google Maps API
 
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://twitter.com/babblebey" target="_blank">
-    <img alt="Twitter: babblebey" src="https://img.shields.io/twitter/follow/babblebey.svg?style=social" />
+  <a href="https://www.linkedin.com/in/ajitesh-gowlikar/" target="_blank"  >Linkedin
   </a>
 </p>
 
-### ✨ [Live Preview](https://traveladvisor-bey.netlify.app/)
+### ✨ [Live Preview](https://lets-go-ajitesh-gowlikar.netlify.app/)
 
 ## Install
 Run the Command to Install all dependencies.
@@ -43,12 +43,9 @@ Your project should start running on `http://localhost:3000`
 
 ## Author
 
-👤 **Olabode Lawal-Shittabey**
+👤 **Ajitesh Gowlikar**
 
-* Twitter: [@babblebey](https://twitter.com/babblebey)
-* LinkedIn: [@babblebey](https://linkedin.com/in/babblebey)
-* Instagram: [@babblebey](https://instagram.com/babblebey)
+* gmail: [@babblebey](ajiteshgowlikar@gmail.com)
+* LinkedIn: [@babblebey](https://www.linkedin.com/in/ajitesh-gowlikar/)
+* Instagram: [@babblebey](https://instagram.com/the_gowlikar)
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
