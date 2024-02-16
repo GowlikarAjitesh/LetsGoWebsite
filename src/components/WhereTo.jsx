@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { useHistory } from "react-router-dom";
-
+import handleSuggestionClick from "../components/map/Header";
 import wheretoImg1 from '../img/whereto3.jpg';
 import wheretoImg2 from '../img/whereto4.jpg';
 import wheretoImg3 from '../img/whereto5.jpg';

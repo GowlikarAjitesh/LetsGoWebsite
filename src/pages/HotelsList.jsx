@@ -134,28 +134,30 @@ const HotelsList = () => {
                             </span>
 
                             {/* Input field for 'checkout' date */}
-                            <Input type="date" name="checkout" value={filterParams}
-                                // Inline change event handling - Update the 'checkout' and 'nights' within the parameter states
-                                handleChangeInline={(e) => setFilterParams(prevState => (
-                                    {
-                                        // Spreading other unchanged states properties
-                                        ...prevState, 
+ {/* Input field for 'checkout' date */}
+<Input type="date" name="checkout" value={filterParams}
+    // Inline change event handling - Update the 'checkout' and 'nights' within the parameter states
+    handleChangeInline={(e) => setFilterParams(prevState => (
+        {
+            // Spreading other unchanged states properties
+            ...prevState, 
 
-                                        // new form input value set to the 'checkin' state property
-                                        checkin: e.target.value,
+            // new form input value set to the 'checkout' state property
+            checkout: e.target.value,
 
-                                        // Difference between 'checkout' property and 'checkin' property is calculated with resulting value is saved to 'nights'
-                                        // ...the individual properties are formatted using 'momentJs' that also does the difference evaluation with the value type coverted into a number using the 'Number' objecct 
-                                        nights: Number(moment(new Date(e.target.value)).diff(filterParams.checkin, 'days')),
-                                    }
-                                ))}
+            // Difference between 'checkout' property and 'checkin' property is calculated with resulting value is saved to 'nights'
+            // ...the individual properties are formatted using 'momentJs' that also does the difference evaluation with the value type coverted into a number using the 'Number' objecct 
+            nights: Number(moment(new Date(e.target.value)).diff(filterParams.checkin, 'days')),
+        }
+    ))}
 
-                                // Extra Props to set 'min' value of the date input
-                                moreProps={{min: filterParams.checkin}}
-                                
-                                // CSS Classes Props
-                                classProps="w-full rounded border-y border-r shadow px-4 py-2 border-l-8 border-l-red-600 focus:text-gray-700 focus:bg-white focus:border-red-600 focus:outline-none" 
-                            />
+    // Extra Props to set 'min' value of the date input
+    moreProps={{min: filterParams.checkin}}
+    
+    // CSS Classes Props
+    classProps="w-full rounded border-y border-r shadow px-4 py-2 border-l-8 border-l-red-600 focus:text-gray-700 focus:bg-white focus:border-red-600 focus:outline-none" 
+/>
+
                             {/* --- */}
                         </div>
                         {/* --- */}
