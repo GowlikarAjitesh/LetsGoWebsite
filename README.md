@@ -45,7 +45,6 @@ Your project should start running on `http://localhost:3000`
 
 👤 **Ajitesh Gowlikar**
 
-* gmail: [@babblebey](ajiteshgowlikar@gmail.com)
-* LinkedIn: [@babblebey](https://www.linkedin.com/in/ajitesh-gowlikar/)
-* Instagram: [@babblebey](https://instagram.com/the_gowlikar)
+* gmail: [@ajiteshgowlikar@gmail.com](ajiteshgowlikar@gmail.com)
+* LinkedIn: [@ajiteshgowlikar](https://www.linkedin.com/in/ajitesh-gowlikar/)
 
